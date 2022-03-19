@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vladimir lenin molodec",
+  "mongoUri": "mongodb+srv://froggush:Marr1edmar!@cluster0.5fmcq.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
